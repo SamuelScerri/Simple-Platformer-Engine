@@ -5,7 +5,9 @@ A Simple Platformer Engine written in Python in 48 hours
 - Tilemap 
 - Node System
 - Level Manager
+- Basic Animation System
 - Basic Tilemap Collision
+- ...
 
 # Prerequisites
 Install PyGame with the following command:
